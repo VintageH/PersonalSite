@@ -45,7 +45,7 @@ const App = () => {
               }
             },
             "bubble": {
-              "distance": 83.91608391608392,
+              "distance": 84,
               "size": 1,
               "duration": 3,
               "opacity": 1,
@@ -68,7 +68,7 @@ const App = () => {
             "value": 355,
             "density": {
               "enable": true,
-              "value_area": 789.1476416322727
+              "value_area": 790
             }
           },
           "color": {
